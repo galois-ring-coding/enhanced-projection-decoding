@@ -1,0 +1,33 @@
+{
+  "affine_fiber_checks": 320,
+  "lee_minimum_completion_checks": 56,
+  "lee_counterexample": {
+    "distance": 3,
+    "full_solutions": [
+      [
+        1,
+        0
+      ]
+    ],
+    "prefix_solutions": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "rank_digit_counterexample": {
+    "ring_rank": 1,
+    "second_digit_rank": 2
+  },
+  "rank_code_distance": 3,
+  "rank_prefix_checks": 24
+}

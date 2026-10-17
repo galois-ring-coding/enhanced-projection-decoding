@@ -1,0 +1,19 @@
+{
+  "reference/checks/rank_schur_small_results.json": "b7c3dd571eec5ee20462faf3119846e857c9ed3f91088e7e3e6171c040e0aa6e",
+  "reference/checks/theory_verification.json": "119ecfe1b82f5f0443d349102e5a79938a83344cef83431787eb071f2644a8d2",
+  "reference/checks/z4_separation_results.json": "24517785fbf15a556b5956cf59e3e1023ef4497fbdacdaeed853305f6e967cbb",
+  "reference/lee/codes.json": "a30d8ed9cd9b6da5e87d5e012401063fe1ab0de2ddad2bbf74ee463fd4652372",
+  "reference/lee/instances.jsonl": "b1b0c4ec6750297fc84ba3a8ef2c8c5fcb04b973b64798754ca93c724b6086a4",
+  "reference/lee/summary.json": "02fee595480d86c5bce3a1b3f439496e8b6683346f9f25be1e060284723245c7",
+  "src/lee_revision.py": "56f0acb8a66e45f407c6abff2d1c8de6d6bed90c4eebf252a1c4f352ca8c5a20",
+  "src/lee_z4_dcc_comparison.py": "fb89d53219a746a34ceea04823e00879c5cca616b2a5c4b9f5856ddb56b6e52e",
+  "src/rank_schur_lift.py": "5661352166f2ad24a86421a93f6e631869153f6b28e88996c2f64100140ca295",
+  "src/ring_comparison_suite.py": "fdbafc4dff458160e5281411b101c8bbebe29160a6217911d9bb10ac462e89c3",
+  "src/ring_constraints.py": "62ca492b7471e77b74d8fa93d8ec0eda54c8ffa9fc8f039829eb3da132fe3ca0",
+  "src/ring_decoding_experiment.py": "ac999cec738a062091b3d80848e5b8700df90d6d5341d1a8b62e456cd1402fc7",
+  "src/verify_theory.py": "9dca6fc3e8b050f365e3bd3a0cd61d79baac01cf30b7e8c1a11922453fe43467",
+  "src/z4_separation.py": "7d757987cfa92ae6d533f08daa7e6dbdfd67a30fca43e8cffac68b621d5d958d",
+  "tests/test_lee_revision.py": "2a0dc9320d56f66664ccf97b611f0fab42cfc71f01c4b859ed2f53d6eb3302a7",
+  "tests/test_lee_z4_dcc_comparison.py": "e698dfd300449fb796ca7c64e1b94cffb57279a1390558a547e5ae4f5fb68c12",
+  "tests/test_z4_separation.py": "875118261c310625f1780210628e6963a073818fa4c98972a1da6001cb0a36e1"
+}

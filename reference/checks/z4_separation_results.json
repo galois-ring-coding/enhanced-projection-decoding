@@ -1,0 +1,67 @@
+{
+  "paired_complete_cases": 672,
+  "decoder_calls": 1344,
+  "exact_trace_events_checked": 4511,
+  "failures": 0,
+  "rates": {
+    "kappa0": 0.1,
+    "kappa": 0.3,
+    "sigma": 0.06,
+    "alpha": 0.01,
+    "W": 0.08,
+    "super_first": 0.009421517635197052,
+    "common_second": 0.005582178051457262,
+    "super_total": 0.009421517635197052,
+    "dcc_first_lower_bound": 0.0320445573362691,
+    "exponent_gap_lower_bound": 0.022623039701072045,
+    "distance_failure_exponent": -0.0656904453594338
+  },
+  "finite_models": [
+    {
+      "n": 100,
+      "k0": 10,
+      "K": 30,
+      "s": 6,
+      "a": 1,
+      "t": 8,
+      "ell": 27,
+      "sc_first_coverage_bits": 0.0,
+      "sc_second_coverage_bits": 0.04679421147894125,
+      "dcc_first_coverage_bits": 3.1845321673906213,
+      "sc_full_list_proxy_bits": 27.04679421147894,
+      "distance_failure_log2_upper": -8.481335586302862,
+      "scope": "Modeled support counts and full-list proxy; linear algebra not included, no attack executed"
+    },
+    {
+      "n": 1000,
+      "k0": 100,
+      "K": 300,
+      "s": 60,
+      "a": 10,
+      "t": 80,
+      "ell": 40,
+      "sc_first_coverage_bits": 5.526029120558405,
+      "sc_second_coverage_bits": 4.697881261440955,
+      "dcc_first_coverage_bits": 32.02455792443965,
+      "sc_full_list_proxy_bits": 45.526029120558405,
+      "distance_failure_log2_upper": -69.24830014254871,
+      "scope": "Modeled support counts and full-list proxy; linear algebra not included, no attack executed"
+    },
+    {
+      "n": 10000,
+      "k0": 1000,
+      "K": 3000,
+      "s": 600,
+      "a": 100,
+      "t": 800,
+      "ell": 54,
+      "sc_first_coverage_bits": 88.8520484296373,
+      "sc_second_coverage_bits": 54.59653481342116,
+      "dcc_first_coverage_bits": 320.4255663660265,
+      "sc_full_list_proxy_bits": 142.8520484296373,
+      "distance_failure_log2_upper": -662.1216829985224,
+      "scope": "Modeled support counts and full-list proxy; linear algebra not included, no attack executed"
+    }
+  ],
+  "scope": "Fixed-composition theorem; complete small-code equivalence tests, not timing evidence"
+}
