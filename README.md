@@ -102,10 +102,9 @@ docs/                    Reproducibility and publication notes
 outputs/                 Generated results (ignored by Git)
 ```
 
-## Citation and Release
+## Citation
 
-Please cite the accompanying manuscript by its title and authors above. A final
-publication identifier and repository URL can be added when available.
-[Publication notes](docs/PUBLICATION.md) give suggested code-availability wording
-and release instructions. No software license has yet been selected for this
-prepared artifact; the authors should add their chosen license before release.
+If you use this code or the experimental data in your research, please cite:
+
+Zhihao Li, Qunxiong Zheng, and Zhongxiao Wang.
+*Enhanced Projection Decoding over Galois Rings: Complete Constraints and Prefix Information.*
