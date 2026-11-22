@@ -1,0 +1,569 @@
+{
+    "format":  1,
+    "proposed_tag":  "ccp-manuscript-20261122",
+    "remote_published":  false,
+    "scope":  "Current manuscript experiments and required source/provenance dependencies only",
+    "file_count":  112,
+    "files":  [
+                  {
+                      "path":  ".gitattributes",
+                      "bytes":  81,
+                      "sha256":  "cdbd58aad5684472082c20e1a1373a29b239d801fb11b3189fa5d9959580e8cf"
+                  },
+                  {
+                      "path":  ".gitignore",
+                      "bytes":  80,
+                      "sha256":  "a0b989eb203ec9cacb871ed54f1a44353ffa4b4c9ff2ea568cd966d49b62e4d3"
+                  },
+                  {
+                      "path":  "docs/MMT_PROTOCOL.md",
+                      "bytes":  3309,
+                      "sha256":  "3c8875c0efa7243cc4e5b2f7265de25c0108862da30ea9201a0cc064fd87b204"
+                  },
+                  {
+                      "path":  "docs/PUBLICATION.md",
+                      "bytes":  1552,
+                      "sha256":  "b68cdee895efbf21d81796e6f094567135c3d39d61b135f4b8351f6955420729"
+                  },
+                  {
+                      "path":  "docs/REPRODUCIBILITY.md",
+                      "bytes":  4154,
+                      "sha256":  "6e9a4ef8f1880fae94119ce5887d1f511a5f91dbac74886b5c2996080da9fef2"
+                  },
+                  {
+                      "path":  "figures/lee_scale_ccp.pdf",
+                      "bytes":  38117,
+                      "sha256":  "edebfc81cacb34b6328a6a4dfcb35a62764df26b67d18003ca6fb84752583abf"
+                  },
+                  {
+                      "path":  "figures/lee_scale_ccp.png",
+                      "bytes":  157024,
+                      "sha256":  "32360570ae9bc55aad127b074df747ea84d3c873a475f60e468af97d562dfed6"
+                  },
+                  {
+                      "path":  "plot_lee_comparison.py",
+                      "bytes":  4696,
+                      "sha256":  "b0b74c04e8f2d302e936774601c9c8c96aaad8ebfc2826cf959955243e428c09"
+                  },
+                  {
+                      "path":  "README.md",
+                      "bytes":  3950,
+                      "sha256":  "fe6a25d56a0fa47df07fdd6040c25c9180aebf3116c46bc434950f7f0ef8be71"
+                  },
+                  {
+                      "path":  "reference/lee/codes.json",
+                      "bytes":  3735686,
+                      "sha256":  "a30d8ed9cd9b6da5e87d5e012401063fe1ab0de2ddad2bbf74ee463fd4652372"
+                  },
+                  {
+                      "path":  "reference/lee/instances.jsonl",
+                      "bytes":  9260317,
+                      "sha256":  "b1b0c4ec6750297fc84ba3a8ef2c8c5fcb04b973b64798754ca93c724b6086a4"
+                  },
+                  {
+                      "path":  "reference/lee/summary.json",
+                      "bytes":  21441,
+                      "sha256":  "02fee595480d86c5bce3a1b3f439496e8b6683346f9f25be1e060284723245c7"
+                  },
+                  {
+                      "path":  "reference/sha256.json",
+                      "bytes":  5022,
+                      "sha256":  "2ae90c546ebf4bb8c76034671699740425723be672d8b28d5952624806c9eea8"
+                  },
+                  {
+                      "path":  "reproduce.py",
+                      "bytes":  15759,
+                      "sha256":  "0029be18fd9db08d6b9da2b3e82de2d71c5cb0f14ad8eeaeba124e7e5f25b2f6"
+                  },
+                  {
+                      "path":  "requirements.txt",
+                      "bytes":  13,
+                      "sha256":  "922bda33668b532b1f38c3212a5f3cf7f0618296eaa35ef1388793e0c3cd5845"
+                  },
+                  {
+                      "path":  "requirements-plots.txt",
+                      "bytes":  19,
+                      "sha256":  "a78115dbf82be902113ad5ad4fae8cc63a329292c1485269d5c39158d37b89a3"
+                  },
+                  {
+                      "path":  "results/lee_list_confirmation_20261105/mothers.json",
+                      "bytes":  799427,
+                      "sha256":  "cfdf5ddf09e5981cd4940a2e1b6de2ea1fb900fa0a0d3d5dfe01e1c457f85374"
+                  },
+                  {
+                      "path":  "results/lee_list_retuned_20261105/mothers.json",
+                      "bytes":  7817888,
+                      "sha256":  "623fb930ee7310079d228c6f7370f0ae6cd8b3219bf5f07ae915eb6a0283404f"
+                  },
+                  {
+                      "path":  "results/lee_list_retuned_20261105/training.jsonl",
+                      "bytes":  20378279,
+                      "sha256":  "7a591387c5765eb3f56f00b3d970855cef47b0ae55c151b3ca5c88e869fa9f39"
+                  },
+                  {
+                      "path":  "results/lee_list_retuned_20261105/tuning.json",
+                      "bytes":  158299,
+                      "sha256":  "853d8209ffe8bd05dffe0f9dc0608a2787ee5d13b6e231e48efd6a47f10c0666"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/heldout_summary.csv",
+                      "bytes":  2406,
+                      "sha256":  "d3d5a1978600cc6854934cab11ed93099593a4e48a6f06136a9caf991b50dcbc"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/inference.json",
+                      "bytes":  193,
+                      "sha256":  "642d8a09f0a8ecf73791af80f4b45bc62c36292f4866f7abb635329a03099a58"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/mmt_parameters.tex",
+                      "bytes":  1141,
+                      "sha256":  "1c6d9b848c05e457e6ed7988b1371b98a7934d84c72fdb60a2673238f81f75bb"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/mmt_stability.tex",
+                      "bytes":  1223,
+                      "sha256":  "2c98d8fb18e263f8d0b2f809e0240428fa1b845d97333c85d03a24c8cfd0b995"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/mmt_success_modes.tex",
+                      "bytes":  1131,
+                      "sha256":  "02154d68e70b607d0ee281f846329b5767871ee6203027ba8e37e835e8a8a466"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/mother_means.csv",
+                      "bytes":  127246,
+                      "sha256":  "f4edf886eaee1b2f05c759138f58c1472cbac28a681d03072dbdd819a9f9f424"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/previous_parameters_new_training.csv",
+                      "bytes":  2089,
+                      "sha256":  "7ba396db76e1bbbe80b83333cc27e1d4521f83caf3fcf4f3d2337be3fba3111b"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/previous_reversal_compositions.csv",
+                      "bytes":  1639,
+                      "sha256":  "a6087ca8b65538a21cf5017d0a60f4e51a7731af09901dad28b6f75e445667ba"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/previous_reversal_diagnostic.json",
+                      "bytes":  1740,
+                      "sha256":  "7636531a4529cec6a0f9d804d3235c3e6d33232d5f659daca7af268900adeadb"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/selected_parameters.csv",
+                      "bytes":  983,
+                      "sha256":  "60de8845ec8fbf30a35e4fb46fc868e8bdfa55e0b0ada335ac68d7e6a6850352"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/success_modes_console.json",
+                      "bytes":  16114,
+                      "sha256":  "3ffaabdf1bc94d20c1d2f1fd71f72606774ecb5127e3d0755d28be58f3898e17"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/success_modes_instances.csv",
+                      "bytes":  1432534,
+                      "sha256":  "5701938067dc51d3649f95c5b99d6f5b0b7cb653a78042cb0019c2ba6ef6b5d1"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/success_modes_summary.csv",
+                      "bytes":  6063,
+                      "sha256":  "5befb7ee03b676e47729b2516876cde3d27e5cd722d92025f59c9f26ad922de2"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/success_modes_verification.json",
+                      "bytes":  704,
+                      "sha256":  "9479e5c86b81768467b5fb40cff5b9270ddf083f7d1857e59a8ae64e5371e26e"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/test_compositions.csv",
+                      "bytes":  11982,
+                      "sha256":  "f3ec12533044b355174d98078c14f3543d86285530891d54ae257fd8466a374b"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/training_candidates.csv",
+                      "bytes":  7769,
+                      "sha256":  "a6748cd36a8b7651fcef6d43deb07d78abf42fb1164252a3e1ac58b989a5155b"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/training_leave_one_matrix_out.csv",
+                      "bytes":  8915,
+                      "sha256":  "bc83a061b9e4bcd23c804bb9971f2dd716bab908de12a6353c7b07e2199405dd"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/analysis/verification.json",
+                      "bytes":  343,
+                      "sha256":  "8993d1a32f750d5dcd9da619b0ad28ffff2b30a0993e9856032f7a48b709634b"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/audit.json",
+                      "bytes":  235,
+                      "sha256":  "0831f5ac523896d0ca5b46c87349df26cfb4eee5c3bcb5a0231319ee794f4daf"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/config.json",
+                      "bytes":  7809,
+                      "sha256":  "ef9b4444fdc3d7b0feb2d1b20b6733b5a810185b0895f8eee911c74b016c6f54"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/instances.jsonl",
+                      "bytes":  22087507,
+                      "sha256":  "bf30ddad86fb634d87c4314e48c968a4c5724ddc274d578c59a3471469deaa7b"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/mothers.json",
+                      "bytes":  13029834,
+                      "sha256":  "e8cbed48ec6b18134dfc1952f69a9ff7dc40f1c1a09f22b183adcd4ec107ec4a"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/training.jsonl",
+                      "bytes":  10961003,
+                      "sha256":  "9e5c7833064201081cf1ffc90c7fa20be3136d911f965e4278f600990f74fcc5"
+                  },
+                  {
+                      "path":  "results/lee_mmt_stability_20261107/tuning.json",
+                      "bytes":  25273,
+                      "sha256":  "fc0482e4dc7a61f2238c68dc07a5cd31b43692b8f0786d810e8a7c118fa4f947"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/manifest.json",
+                      "bytes":  3530,
+                      "sha256":  "bfc9cf076b2f486b148bb4cf6b81f3dac28784bebd84eec2c3faac954cfe6f39"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/manuscript_results.tex",
+                      "bytes":  1220,
+                      "sha256":  "23dc3c779e93f5f3dd05785a047e08c4262cff1d630f7b22292529939995d3fa"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/paired_ratios.csv",
+                      "bytes":  57321,
+                      "sha256":  "a7545aa32352efe2df3024f3eb8a6b4d460fc3960da38ea6f98795b05384c5a0"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/panel_summary.csv",
+                      "bytes":  110196,
+                      "sha256":  "82f9985cfaece11363a47e62de55710c9092d0e9611692b1d2d5bd47cb917c94"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/rank_rejection.csv",
+                      "bytes":  35715,
+                      "sha256":  "1e04918fb010da4d4173ed6ecd61f0b3d16f4073c761789440b39c9232d555a4"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/README.md",
+                      "bytes":  6212,
+                      "sha256":  "8a4611ac4afbb76e1415c6133560de9747e131a585228afdbbeecfab951a821f"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/validation.json",
+                      "bytes":  3919,
+                      "sha256":  "8b2d4644e085544d6b7a1970ce3b4a6eb613fe09f5343baa86f15ca3ccd27bab"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/analysis/weighted_by_code.csv",
+                      "bytes":  1376503,
+                      "sha256":  "1a6f3183cd9c1d704d5ac5c8c7cc1e7a1205476f952a8dcf12be98473c9ad231"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/audit.json",
+                      "bytes":  1182,
+                      "sha256":  "37bb71c613eadc5f02dcc39beb618f83f70ef9f6b5eb70086edcbe6f8f15f18c"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/codes.json",
+                      "bytes":  2185170,
+                      "sha256":  "9fcc716b716581ef57eb06d63c378ddeac78d1c27bd8f37b38b98c331b12365e"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/config.json",
+                      "bytes":  1464,
+                      "sha256":  "fc72ba2747dbe16d50af80bb27d5ee4fe52dc98f606a6ab1b42be1dbed16cdd7"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/environment.json",
+                      "bytes":  162,
+                      "sha256":  "45bbf018cd7af83e84f66435ff8a2f1715f2a1eedb0ba660e86f084217318ea9"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/error_pools.json",
+                      "bytes":  72947,
+                      "sha256":  "c94f939c2b6ef4712f685708347c7b607faca07cf18e45b2d268a1e5f105adb2"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/instances.jsonl",
+                      "bytes":  23501678,
+                      "sha256":  "97a309651b50d1dbb1cb4ebb35f91a48b1170895f98b91c16a631dae8b526fe9"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n48/run_summary.json",
+                      "bytes":  264,
+                      "sha256":  "0768b5e5db7077b30e3fcdf948c5f1e52a7da5a559617bcd03a9b3b55e2148a2"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/audit.json",
+                      "bytes":  1218,
+                      "sha256":  "6a95b778847f6d3c544495d21a72d44a923715b496d65f5bb3d4cbc25c1dfead"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/codes.json",
+                      "bytes":  4985232,
+                      "sha256":  "a9267068fb7b3d33902fbeb252be054bb9e783ac43a7048c0ef9473fc8c21e6f"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/config.json",
+                      "bytes":  1465,
+                      "sha256":  "466eb888fb5ece25eb0cb5f377af4cf863b9a34812c363aa50e36cdb1df57e6b"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/environment.json",
+                      "bytes":  162,
+                      "sha256":  "45bbf018cd7af83e84f66435ff8a2f1715f2a1eedb0ba660e86f084217318ea9"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/error_pools.json",
+                      "bytes":  121638,
+                      "sha256":  "faf091aaaf12e1245053e06d8278a4e8c7146791721c8cfeb3f76370a0d25fcd"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/instances.jsonl",
+                      "bytes":  49067702,
+                      "sha256":  "616b2f438a5a5c8ddc195d12d7ed091fca1c676f8e29b75f33cc78d3a4281b89"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n64/run_summary.json",
+                      "bytes":  267,
+                      "sha256":  "10e9e9b6c7e2cd8fe130a8f6ee066d33c1761a829dd864655691049682403370"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/audit.json",
+                      "bytes":  1221,
+                      "sha256":  "e06c3ded968f4d7fefbda19293ce558180a7ab46a3bce917fe920eed5e62d16c"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/codes.json",
+                      "bytes":  16224521,
+                      "sha256":  "cd2420eb7301e70e94ba413972ce9eb15ba85f2438f378d7752a076c32e213c2"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/config.json",
+                      "bytes":  1465,
+                      "sha256":  "49bf66296a9c4f0130fc0de4a830af7c8869e0adf5ea55b73858691309975914"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/environment.json",
+                      "bytes":  162,
+                      "sha256":  "45bbf018cd7af83e84f66435ff8a2f1715f2a1eedb0ba660e86f084217318ea9"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/error_pools.json",
+                      "bytes":  213344,
+                      "sha256":  "e4b0da00aa45b964632f4a8e8f3f55bf5d3f5538d59235747e2b193cdf0226ce"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/instances.jsonl",
+                      "bytes":  138381750,
+                      "sha256":  "59c949d29432029c401d4c6055f863bdc3b8f1a16ac9c9224929c92eab26af2c"
+                  },
+                  {
+                      "path":  "results/lee_scale_rejection_20261119/n96/run_summary.json",
+                      "bytes":  267,
+                      "sha256":  "0a3a366f5ef3f7d2679f0c2933ed6071fb1f490cd6e569dd8285004664a70e11"
+                  },
+                  {
+                      "path":  "results/lee_sweep_20261103/subtypes_main/codes.json",
+                      "bytes":  19864228,
+                      "sha256":  "b80ef9b72bfbd4f06451efdbf70f0ce151a6c60a46ad49a0f53d294db4e81ce7"
+                  },
+                  {
+                      "path":  "src/analyze_lee_extended.py",
+                      "bytes":  13098,
+                      "sha256":  "9f00780cc4f28cb960936e15d568c66c9fc366cc3c4265309c7333049db6c989"
+                  },
+                  {
+                      "path":  "src/analyze_lee_fixed.py",
+                      "bytes":  34295,
+                      "sha256":  "f13182f571e9e6d6fc1086fade7b4575df880f8903b7f9363cfb13845bb9d834"
+                  },
+                  {
+                      "path":  "src/analyze_lee_list_comparison.py",
+                      "bytes":  22004,
+                      "sha256":  "c06101577a1c87914c94cdd8552d5b8de5d0e76e04d253b6853e66758a146539"
+                  },
+                  {
+                      "path":  "src/analyze_lee_list_retuned.py",
+                      "bytes":  15117,
+                      "sha256":  "0d016e82999668533632a36535e20ebdbde24a87a1bb83c0c9c9b2280cc459ef"
+                  },
+                  {
+                      "path":  "src/analyze_lee_mmt_search_modes.py",
+                      "bytes":  12721,
+                      "sha256":  "b76152cc12bd1ab0dc69b8e744ec26668b5903c54ef57316c396d2f2963146d1"
+                  },
+                  {
+                      "path":  "src/analyze_lee_mmt_stability.py",
+                      "bytes":  20666,
+                      "sha256":  "0670b1707127b8aaed3ad9486f2a34517a29fc04c9a955200499265e237851ff"
+                  },
+                  {
+                      "path":  "src/analyze_lee_rejection.py",
+                      "bytes":  20603,
+                      "sha256":  "620eebb2e8a9c1f826524b9641df1c70045b39a588b04975f67edfbcce21b970"
+                  },
+                  {
+                      "path":  "src/analyze_lee_scale_confirmation.py",
+                      "bytes":  31179,
+                      "sha256":  "7cbbdaea5b4f7a01b584f3120f5cc2a89dd4ac2ada985852e781253c8d8d316d"
+                  },
+                  {
+                      "path":  "src/lee_extended.py",
+                      "bytes":  23105,
+                      "sha256":  "c0066303f4c94cae106c7a4c3545c144bc53d1dd7feacb06caa87190e95ef3a5"
+                  },
+                  {
+                      "path":  "src/lee_fixed_kernel.py",
+                      "bytes":  7561,
+                      "sha256":  "2393824fd30fa0af0168d4feeee4f6de52f65c0df12d235321b3b1bf7a448614"
+                  },
+                  {
+                      "path":  "src/lee_list_isd.py",
+                      "bytes":  13371,
+                      "sha256":  "36d5422bea03fe9e25bc6086aaa27abab8199f5c5d972fb888a50fbbedce868e"
+                  },
+                  {
+                      "path":  "src/lee_revision.py",
+                      "bytes":  20071,
+                      "sha256":  "56f0acb8a66e45f407c6abff2d1c8de6d6bed90c4eebf252a1c4f352ca8c5a20"
+                  },
+                  {
+                      "path":  "src/lee_z4_dcc_comparison.py",
+                      "bytes":  19818,
+                      "sha256":  "fb89d53219a746a34ceea04823e00879c5cca616b2a5c4b9f5856ddb56b6e52e"
+                  },
+                  {
+                      "path":  "src/present_lee_fixed.py",
+                      "bytes":  25577,
+                      "sha256":  "7c031c9ce737560270a13fe47ec778da9dc19e6d6561664c074777705741ce38"
+                  },
+                  {
+                      "path":  "src/rank_schur_lift.py",
+                      "bytes":  12413,
+                      "sha256":  "5661352166f2ad24a86421a93f6e631869153f6b28e88996c2f64100140ca295"
+                  },
+                  {
+                      "path":  "src/ring_comparison_suite.py",
+                      "bytes":  15934,
+                      "sha256":  "fdbafc4dff458160e5281411b101c8bbebe29160a6217911d9bb10ac462e89c3"
+                  },
+                  {
+                      "path":  "src/ring_constraints.py",
+                      "bytes":  2825,
+                      "sha256":  "62ca492b7471e77b74d8fa93d8ec0eda54c8ffa9fc8f039829eb3da132fe3ca0"
+                  },
+                  {
+                      "path":  "src/ring_decoding_experiment.py",
+                      "bytes":  10195,
+                      "sha256":  "ac999cec738a062091b3d80848e5b8700df90d6d5341d1a8b62e456cd1402fc7"
+                  },
+                  {
+                      "path":  "src/run_lee_fixed.py",
+                      "bytes":  11570,
+                      "sha256":  "ba1fbd233ae2d3e9b6f22e086e45d2e34f0bc7cfca9c0841896a3501f7373773"
+                  },
+                  {
+                      "path":  "src/run_lee_independent.py",
+                      "bytes":  11405,
+                      "sha256":  "c8dc4f74ab09227498ce5413040990a7a8ea7fc5f552dc38e8a675410e22df5f"
+                  },
+                  {
+                      "path":  "src/run_lee_list_comparison.py",
+                      "bytes":  14505,
+                      "sha256":  "2db42cc002ae71207c04005efc3869f94c6a0fe2cc73847e8684cf3e1c506836"
+                  },
+                  {
+                      "path":  "src/run_lee_list_confirmation.py",
+                      "bytes":  12349,
+                      "sha256":  "c3c4585509c996263092b84471376132978641199f7af75f961d2e5d1ca3cf0f"
+                  },
+                  {
+                      "path":  "src/run_lee_list_retuned.py",
+                      "bytes":  18203,
+                      "sha256":  "8effe67776f4d67aada2deb6d9c3e13823785b58263c31fa8846b3564494c534"
+                  },
+                  {
+                      "path":  "src/run_lee_mmt_stability.py",
+                      "bytes":  10613,
+                      "sha256":  "2fb91776a4681d49c1eb9530f896fde9f34e0bec5ee98685df33e015e8c8618d"
+                  },
+                  {
+                      "path":  "src/run_lee_scale_confirmation.py",
+                      "bytes":  10849,
+                      "sha256":  "4a3b25bec04c328c15813f1b36a6cb1e2df26193566a64dbbd2ace467b2ff68c"
+                  },
+                  {
+                      "path":  "src/verify_theory.py",
+                      "bytes":  5659,
+                      "sha256":  "9dca6fc3e8b050f365e3bd3a0cd61d79baac01cf30b7e8c1a11922453fe43467"
+                  },
+                  {
+                      "path":  "src/z4_separation.py",
+                      "bytes":  7695,
+                      "sha256":  "7d757987cfa92ae6d533f08daa7e6dbdfd67a30fca43e8cffac68b621d5d958d"
+                  },
+                  {
+                      "path":  "tests/test_lee_extended.py",
+                      "bytes":  4414,
+                      "sha256":  "50a8799265cdea9f8c2b7ba6562114a32a387d9549a0458b07cc03359912f550"
+                  },
+                  {
+                      "path":  "tests/test_lee_fixed.py",
+                      "bytes":  6730,
+                      "sha256":  "ccdcefeabe1dd3b52b81e621704114aa5cdfda9ba04cb5aac40e5e8195df78a7"
+                  },
+                  {
+                      "path":  "tests/test_lee_list_isd.py",
+                      "bytes":  10050,
+                      "sha256":  "95df8c913cfa3843ddd0f4ba653e5ba2c60a5b8554b6aff47dab35f6cb1aedc7"
+                  },
+                  {
+                      "path":  "tests/test_lee_mmt_search_modes.py",
+                      "bytes":  2197,
+                      "sha256":  "fcf8eb5d400fdc7255d738ca7dadfe5f4073b9e7fc40ae1cb85ee84d26f2eaf1"
+                  },
+                  {
+                      "path":  "tests/test_lee_mmt_stability.py",
+                      "bytes":  3836,
+                      "sha256":  "a2696690305b041091389026c313181ba9867a625d9ce13ca3c77412973cba4f"
+                  },
+                  {
+                      "path":  "tests/test_lee_rejection_analysis.py",
+                      "bytes":  1576,
+                      "sha256":  "6affc2efa827a7448a26638dda62d16b937da8e941223a82bf9e919de07cd1b2"
+                  },
+                  {
+                      "path":  "tests/test_lee_revision.py",
+                      "bytes":  5715,
+                      "sha256":  "2a0dc9320d56f66664ccf97b611f0fab42cfc71f01c4b859ed2f53d6eb3302a7"
+                  },
+                  {
+                      "path":  "tests/test_lee_scale_confirmation.py",
+                      "bytes":  4600,
+                      "sha256":  "8cdc34a7ab4e04afb8e7b2ac20efc1970e20f143dca81bf9db88eb591282dc77"
+                  },
+                  {
+                      "path":  "tests/test_lee_z4_dcc_comparison.py",
+                      "bytes":  2986,
+                      "sha256":  "e698dfd300449fb796ca7c64e1b94cffb57279a1390558a547e5ae4f5fb68c12"
+                  },
+                  {
+                      "path":  "tests/test_reproduce.py",
+                      "bytes":  3006,
+                      "sha256":  "96ed8dbad71b05a7714e149d4bcf767e00ad8998513f410f7fe0264e35a2f5a5"
+                  },
+                  {
+                      "path":  "tests/test_z4_separation.py",
+                      "bytes":  1949,
+                      "sha256":  "875118261c310625f1780210628e6963a073818fa4c98972a1da6001cb0a36e1"
+                  }
+              ]
+}
