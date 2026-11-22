@@ -1,0 +1,7074 @@
+{
+  "64:12:4:3:mmt:ccp_mmt": {
+    "primary": {
+      "window": 2,
+      "weight": 1,
+      "weight2": 1,
+      "split": 0
+    },
+    "family": {
+      "window": 2,
+      "weight": 0,
+      "weight2": 1,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9211404.436220473,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9126974.731496062,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9294626.614960628,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4281066.52519685,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8502157.413385827,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 3799290.6322834655,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5054466.522047243,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4011586.6921259845,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4514492.416535433,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9496731.381889764,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9361305.98582677,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 3359081.9000000004,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5451449.0047244085,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 3695234.679527558,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4864950.07952756,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4115058.458267717,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4422454.089763779,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9545859.437007874,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9475906.83070866,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 3495398.7283464572,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 3763554.6425196854,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 3613577.5299212597,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4025300.963779527,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4052275.521259843,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4158174.2086614165,
+        "calls": 24
+      }
+    ]
+  },
+  "64:12:4:3:mmt:lee_mmt": {
+    "primary": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 4,
+      "weight": 0,
+      "weight2": 1,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13953789.236220472,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15009203.711023621,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14298340.796062993,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5840403.973228346,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6156673.6039370075,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4712518.97480315,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4980234.929133857,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7112536.845669291,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7658146.058267717,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13988944.087401574,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13966615.337795278,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4857347.82440945,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5206707.981889763,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4705468.584251969,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4743303.100787401,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6401623.666929134,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6889183.970078741,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15295833.276377954,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14059705.997637795,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5505154.359055117,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5012822.777165354,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6079933.8007874,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4954914.307874015,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9391599.06141732,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7203524.605511811,
+        "calls": 24
+      }
+    ]
+  },
+  "64:12:4:6:mmt:ccp_mmt": {
+    "primary": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13486508.522834647,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13538871.277165353,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13751659.923622048,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6709862.851968504,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7354788.429133858,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4480470.1992126,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4639375.937007874,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4523230.229921259,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4575615.592913386,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13799975.049606295,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13689528.474803152,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6670891.499999998,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7672432.069291339,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4512374.288188976,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5969603.3503937,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4452777.363779526,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5718636.261417324,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14272853.898425194,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14016286.65433071,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8059757.170866141,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6805948.432283463,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5126436.928346456,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4961423.355905512,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4665890.200787403,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4436730.741732284,
+        "calls": 24
+      }
+    ]
+  },
+  "64:12:4:6:mmt:lee_mmt": {
+    "primary": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13607048.782677166,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13382234.989763778,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13890518.793700786,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5771733.199212598,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5886316.499212598,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4426736.006299213,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4953439.374015748,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6962470.2748031495,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7310520.451181102,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13689968.58503937,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13660987.429921258,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4699372.050393701,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5396424.5118110245,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4613653.23543307,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4625102.2417322835,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6223397.078740157,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6539921.211811024,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 16185265.142519683,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14109446.496062992,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6183907.011023623,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5237466.448031494,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 5653811.761417322,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 4724212.738582676,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8807016.16456693,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6679994.218897638,
+        "calls": 24
+      }
+    ]
+  },
+  "64:12:8:9:mmt:ccp_mmt": {
+    "primary": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 0
+    },
+    "family": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 40592463.15203709,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31184127.59190028,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31705128.649072997,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12357139.720757343,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13787608.35071907,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8468521.604432683,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10168467.995534457,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10618243.248472732,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11133957.144148769,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 29428833.045398995,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30867418.78608263,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11687260.390659742,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15568946.290229144,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9881172.895941095,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10983552.640791083,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10631226.013255361,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12591769.015763113,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32504003.820246745,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31703471.470261745,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15107369.179399313,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11477526.222852426,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 7370450.466754067,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8448683.99967463,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9655311.041408814,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8378684.160091229,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 57223573.72465864,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 57417069.07065504,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 39359334.73210808,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 18757937.96640965,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 18177856.939877503,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9595136.64656843,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23150771.558430564,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11876671.688132787,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 41146981.169836536,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 40652837.96114574,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 28392731.08419134,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 16879930.710922364,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13351728.187897885,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8226253.048158312,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19111128.916707803,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10647376.990481665,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 95559878.09792444,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 96535549.14506377,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 548712458.3291484,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 36623650.50534722,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 76340873.87534024,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 24105058.05005499,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 125803813.1893621,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 38770614.78404945,
+        "calls": 40
+      }
+    ]
+  },
+  "64:12:8:9:mmt:lee_mmt": {
+    "primary": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 48366777.96862298,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 40626126.62934749,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 39820156.34535043,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8439106.250969373,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13109395.3429387,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10074824.56047406,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12668388.081000306,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12870065.710630314,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 16669771.747527566,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 39145133.522996694,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 51300757.36963671,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12932211.567267997,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14072859.173877506,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14050896.56993526,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 18227988.77595163,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12019819.102633616,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14526918.287031762,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 581148265.7272092,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 79810421.64549945,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13281970.527559847,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8577046.906632362,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10609251.42314938,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8987610.100156814,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 8227175.080722549,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 6415305.030182668,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 19,
+        "selection_loss_ns": 3653406925.6825647,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 9,
+        "selection_loss_ns": 2905304919.674266,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 1093759590.4537206,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 65206551.896224394,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 86479958.68246974,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 26557584.661331613,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 33096964.848734293,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12339263.06752353,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 17,
+        "selection_loss_ns": 3505161010.35108,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 8,
+        "selection_loss_ns": 2348725136.127863,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 7,
+        "selection_loss_ns": 1073922337.5028944,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 66158516.52440371,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 84818958.85113095,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 26431269.57279218,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32888879.94766343,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12315091.508795379,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 21,
+        "selection_loss_ns": 4129180799.7385283,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 22,
+        "selection_loss_ns": 4127151718.827814,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 2926291227.041815,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 19,
+        "selection_loss_ns": 2892946165.8219457,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 15,
+        "selection_loss_ns": 3445106851.135372,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 10,
+        "selection_loss_ns": 2810141592.490693,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 12,
+        "selection_loss_ns": 1569805359.350506,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 568737456.2588792,
+        "calls": 40
+      }
+    ]
+  },
+  "64:12:8:6:stern:ccp_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 27410225.45166153,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 84674929.0568767,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 126200697.30822149,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 169932212.48440114,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 646920692.6006519,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 109081604.26412947,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 150492574.40298662,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 199941534.37123653,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 1135834602.5714605,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 110798140.07830603,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 154586804.84587497,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 203399328.58835927,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 683225360.7865269,
+        "calls": 40
+      }
+    ]
+  },
+  "64:12:8:6:stern:lee_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 48594045.68544966,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 158536394.2681546,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 179957111.16492495,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 193981018.59322557,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 197715840.15763262,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 817206636.1154766,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 1201413461.741482,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 1851651240.5912268,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 9,
+        "selection_loss_ns": 2560916106.16884,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 10,
+        "selection_loss_ns": 1141086329.1060743,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 1833951013.9166968,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 7,
+        "selection_loss_ns": 2489562372.385939,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 13,
+        "selection_loss_ns": 3538674556.5746145,
+        "calls": 40
+      }
+    ]
+  },
+  "64:12:8:9:stern:ccp_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 45563731.19657025,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 51158825.136579506,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 55673702.02918116,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 59682649.983078234,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 63243779.322502136,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 133037240.70672582,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 138021877.45422563,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 249867770.75595313,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 283034927.9005241,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 139120575.21723226,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 632361066.3222568,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 743700334.0117793,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 784535556.265177,
+        "calls": 40
+      }
+    ]
+  },
+  "64:12:8:9:stern:lee_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 48512053.73791717,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 49125441.10400574,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 62712128.884802245,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 71058163.46340908,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 80982199.45089257,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 878686388.9046793,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 180849052.63388044,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 811301661.6834768,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 1313456576.1917555,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 24,
+        "selection_loss_ns": 3442609490.0575376,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 8,
+        "selection_loss_ns": 1998729333.7164116,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 1451108506.8069277,
+        "calls": 40
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 10,
+        "selection_loss_ns": 2515875384.00997,
+        "calls": 40
+      }
+    ]
+  },
+  "64:12:4:6:stern:ccp_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13570267.041732285,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30189198.481889766,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 42335059.25590552,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 45582345.23858267,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 52888983.67952756,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 34104381.748818904,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 41719681.41338583,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 45863248.38031496,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 51902222.804724425,
+        "calls": 24
+      }
+    ]
+  },
+  "64:12:4:6:stern:lee_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13097561.761417324,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32991292.47007875,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 33445579.34566929,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 34218520.17480315,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 42391917.253543295,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 50064131.174803145,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 47197331.83700787,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 50388811.72362206,
+        "calls": 24
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 58918771.239370085,
+        "calls": 24
+      }
+    ]
+  },
+  "96:18:6:5:mmt:ccp_mmt": {
+    "primary": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23509240.83098019,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23706045.23167351,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23710431.87999935,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9719192.94921364,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12242089.204748215,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10834118.691307241,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 14036392.121420994,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10007493.50050507,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 12618241.098770935,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23691518.77190666,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23366466.18563656,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9752678.535175772,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 13901651.874263113,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11208264.497298203,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11434297.515922124,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10273949.09955732,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10426378.131412013,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 24059729.89640009,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23661674.807736836,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9941963.37876655,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11572844.2133009,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10965838.922908524,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10814858.210814867,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10005659.986829888,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9632128.474197071,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23550255.20457668,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 24100753.8063996,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9892750.274618017,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9761713.280357357,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11715473.233845338,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11135381.573800392,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10935057.578307383,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10107012.70870636,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23524435.091094185,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23381921.17847932,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9857070.188354574,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11964730.547906138,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11311670.39270571,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 11109725.77574104,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 10392653.191668542,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 9797112.72723273,
+        "calls": 32
+      }
+    ]
+  },
+  "96:18:6:5:mmt:lee_mmt": {
+    "primary": {
+      "window": 2,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 2,
+      "weight": 0,
+      "weight2": 1,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 85447941.676927,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 46988919.22761649,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 85487346.54484035,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19307495.440079883,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19097524.611368425,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 28420021.102801736,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 28613263.648157176,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 25205635.87416246,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 25010671.513564967,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 70692965.44589278,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 72226582.37879476,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 18879491.723151263,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 20209710.499074295,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30160182.21847361,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30985180.16695731,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 21678242.113316048,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 24229545.583930068,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 38841349.08065319,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 36594994.06436222,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 21777833.051288098,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19053513.111814614,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 36779304.367812485,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30054253.511672005,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30666096.1377102,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23754838.27009147,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 92398592.39665006,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 50048113.20919055,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 51313289.49238746,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 26710007.508384913,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 128600940.03196311,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 53631232.11887563,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 128318076.2826414,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 50150185.21543474,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 86709998.65156916,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 49508958.76118971,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 49954532.80535679,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 26532406.765491378,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 129034408.38348508,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 54707407.96016169,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 128692498.88034067,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 49097091.05543534,
+        "calls": 32
+      }
+    ]
+  },
+  "96:18:6:9:mmt:ccp_mmt": {
+    "primary": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31986232.1084542,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31129084.97573073,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31437033.757862173,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19435336.01304079,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32302804.264437016,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15690794.512205962,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 16689799.724098748,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19918046.891719557,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23735784.129928354,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30534730.477005973,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30995449.945070844,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 18949679.946374074,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 22697588.415719297,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15262125.770963632,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19719244.29066724,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19296386.63406026,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19941275.607548274,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 33859609.76043043,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32981733.26971595,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 22355223.706087224,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19658390.03318525,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 16649884.731915928,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 15167599.671447195,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 22058887.124811843,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19626577.87112068,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 37128671.51610367,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 37161831.13552259,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 38784007.650207475,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23393767.167800795,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 27761351.18450442,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 19038525.34129073,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 34676981.646489315,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 23060626.132136177,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 34878966.934601866,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 34181257.02708817,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32939056.315592233,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 21574073.438146476,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 24312910.99324229,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 17197701.944030028,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30169597.568673674,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 22458445.067408208,
+        "calls": 32
+      }
+    ]
+  },
+  "96:18:6:9:mmt:lee_mmt": {
+    "primary": {
+      "window": 2,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 2,
+      "weight": 0,
+      "weight2": 1,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 132697663.56516904,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 59894170.51657408,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 130743385.82462734,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32046133.34507133,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31861562.084303807,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 43842334.42915561,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 43969186.25763886,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 37683854.08017323,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 37585853.55481316,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 109438629.62076548,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 115367691.58240087,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 30484953.811526988,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32028137.84578483,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 46156782.373167425,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 46882139.68501172,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 32653650.254613984,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 36315854.2607873,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 57799014.373879805,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 50732672.59548273,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 37239468.283699326,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31868453.22256064,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 55246067.06127556,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 46182661.64644821,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 43215854.83295489,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 34948054.9532291,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 1328834434.1550763,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 682635746.625673,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 157708603.58969384,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 64822952.61777329,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 189257756.52513734,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 79550752.14028732,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 684393975.6872865,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 66955362.68832457,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 1305636338.6933923,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 678430389.2015706,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 155016322.32653093,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 61478706.11547966,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 189877234.94599965,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 80326629.17361057,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 682254954.3594854,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 69865208.50777006,
+        "calls": 32
+      }
+    ]
+  },
+  "96:18:12:14:mmt:ccp_mmt": {
+    "primary": {
+      "window": 6,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 2,
+      "weight": 0,
+      "weight2": 1,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 125681901.08603822,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 78100972.04749154,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 78641532.97767237,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 35589058.020426676,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 51554126.56558738,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 56768792.448940955,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 75479680.49721515,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 60628848.39084738,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 75581090.25574073,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 113421160.27629487,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 113220941.37627381,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31155142.321890816,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 33675923.99771094,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 83643363.74276817,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 514214339.9823006,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 67110482.03387688,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 108717072.46515918,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 137195041.34269014,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 135756246.16889986,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 56650313.50786272,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 35279952.286941856,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 81956137.51204285,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 56971047.937696785,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 40426398.31323291,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 33744394.85579512,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 32,
+        "selection_loss_ns": 2926825487.4207964,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 32,
+        "selection_loss_ns": 2931895898.9232836,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 22,
+        "selection_loss_ns": 1967261194.5520537,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 7,
+        "selection_loss_ns": 124078180.27166685,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 18,
+        "selection_loss_ns": 2371705532.312769,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 577660563.4690866,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 350251040.84377813,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 71013837.60114978,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 32,
+        "selection_loss_ns": 2903074325.1509595,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 31,
+        "selection_loss_ns": 2904914974.743471,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 21,
+        "selection_loss_ns": 1970383056.2508407,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 7,
+        "selection_loss_ns": 128167555.60228796,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 18,
+        "selection_loss_ns": 2357830877.2679396,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 563706369.6688652,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 7,
+        "selection_loss_ns": 510796095.44908255,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 70466696.43541516,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 3106949820.091436,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 3107676472.167007,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 2736541349.7706413,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 2736546654.104834,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 3902313798.2500544,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 3898676111.409211,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 28,
+        "selection_loss_ns": 3496316697.2221937,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 15,
+        "selection_loss_ns": 2319993827.2168727,
+        "calls": 56
+      }
+    ]
+  },
+  "96:18:12:14:mmt:lee_mmt": {
+    "primary": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "family": {
+      "window": 4,
+      "weight": 1,
+      "weight2": 1,
+      "split": 2
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 954680584.8744435,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 309723097.17846113,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 4,
+        "selection_loss_ns": 768966630.9798888,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 76808643.49392718,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 251144011.06466734,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 78899137.54341394,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 84559823.93403699,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 168445985.23590216,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 171501762.70403117,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 324707093.5850638,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 328152462.63090026,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 92669073.58586763,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 109099609.74446845,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 53294989.185228206,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 226055535.235161,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 116601006.89339335,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 0,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 551571447.6030312,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 15,
+        "selection_loss_ns": 1660118142.1697972,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 1,
+        "selection_loss_ns": 314076883.2249654,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 99492332.635761,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 55994307.19932463,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 53717569.294764794,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 43820908.34793531,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 74342755.74268928,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 83871084.18782018,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 32,
+        "selection_loss_ns": 3339139477.254529,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 31,
+        "selection_loss_ns": 3340074532.3885403,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 36,
+        "selection_loss_ns": 3528627182.8390284,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 2490533009.159504,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 14,
+        "selection_loss_ns": 1861431356.0476816,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 435815119.92261,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 1590830671.3443725,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 139555109.92804545,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 31,
+        "selection_loss_ns": 2902977665.9711843,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 31,
+        "selection_loss_ns": 2896992040.8147225,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 31,
+        "selection_loss_ns": 3211042807.7928324,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 2872985285.7444286,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 16,
+        "selection_loss_ns": 2319108552.009286,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 885091457.7916412,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 0
+        },
+        "failed_calls": 4,
+        "selection_loss_ns": 1566055089.7885203,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 1,
+          "split": 2
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 122124134.6509148,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 36,
+        "selection_loss_ns": 3402712224.8051286,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 34,
+        "selection_loss_ns": 3381905546.705331,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 39,
+        "selection_loss_ns": 3578256363.132282,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 40,
+        "selection_loss_ns": 3544863912.9506106,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 37,
+        "selection_loss_ns": 3147990929.128772,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 30,
+        "selection_loss_ns": 3082953430.0494847,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 0
+        },
+        "failed_calls": 34,
+        "selection_loss_ns": 4339703663.303137,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 2,
+          "split": 2
+        },
+        "failed_calls": 30,
+        "selection_loss_ns": 4195321128.29428,
+        "calls": 56
+      }
+    ]
+  },
+  "96:18:12:9:stern:ccp_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 93941012.11621222,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 184010168.74266624,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 9,
+        "selection_loss_ns": 496765078.5940598,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 13,
+        "selection_loss_ns": 1097215932.871244,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 18,
+        "selection_loss_ns": 1589656018.2562687,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 21,
+        "selection_loss_ns": 1639659008.9182742,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 22,
+        "selection_loss_ns": 1952702383.8552547,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 2274822615.449208,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 28,
+        "selection_loss_ns": 2443781369.1830544,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 26,
+        "selection_loss_ns": 1638746978.2735734,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 1952773288.2354882,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 27,
+        "selection_loss_ns": 2272499090.28558,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 27,
+        "selection_loss_ns": 2439092794.091735,
+        "calls": 56
+      }
+    ]
+  },
+  "96:18:12:9:stern:lee_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 1350638662.2522974,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 12,
+        "selection_loss_ns": 539420794.0358155,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 16,
+        "selection_loss_ns": 1029181407.8337772,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 20,
+        "selection_loss_ns": 1251234286.1320877,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 27,
+        "selection_loss_ns": 2079785055.2619987,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 18,
+        "selection_loss_ns": 1719023776.360044,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 24,
+        "selection_loss_ns": 2754291524.930408,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 24,
+        "selection_loss_ns": 2767102240.3770356,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 28,
+        "selection_loss_ns": 2802229812.533256,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 40,
+        "selection_loss_ns": 3976606162.375258,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 38,
+        "selection_loss_ns": 4834827218.8583555,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 39,
+        "selection_loss_ns": 4827210675.673846,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 43,
+        "selection_loss_ns": 4831833471.158581,
+        "calls": 56
+      }
+    ]
+  },
+  "96:18:12:14:stern:ccp_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 124448457.79019491,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 575771162.5805718,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 7,
+        "selection_loss_ns": 573726998.8048726,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 8,
+        "selection_loss_ns": 604207614.3790088,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 11,
+        "selection_loss_ns": 791536468.9524007,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 25,
+        "selection_loss_ns": 1418768219.8146908,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 20,
+        "selection_loss_ns": 1408289044.2712705,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 2421363051.887424,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 30,
+        "selection_loss_ns": 3205599447.2706223,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 35,
+        "selection_loss_ns": 1907701868.1377044,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 25,
+        "selection_loss_ns": 1844044863.584771,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 27,
+        "selection_loss_ns": 2858226744.608395,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 31,
+        "selection_loss_ns": 3646854487.891028,
+        "calls": 56
+      }
+    ]
+  },
+  "96:18:12:14:stern:lee_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 5,
+        "selection_loss_ns": 950862057.9196368,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 12,
+        "selection_loss_ns": 534266810.9684883,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 16,
+        "selection_loss_ns": 1021822112.3381807,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 20,
+        "selection_loss_ns": 1245539881.3578837,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 27,
+        "selection_loss_ns": 2078948922.8215234,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 32,
+        "selection_loss_ns": 2503735374.697967,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 25,
+        "selection_loss_ns": 2783572147.9428115,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 23,
+        "selection_loss_ns": 2608088002.908314,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 27,
+        "selection_loss_ns": 2643054594.470517,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 54,
+        "selection_loss_ns": 4577408473.686989,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 49,
+        "selection_loss_ns": 4806827751.927355,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 39,
+        "selection_loss_ns": 4820899000.389503,
+        "calls": 56
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 43,
+        "selection_loss_ns": 4833888917.709952,
+        "calls": 56
+      }
+    ]
+  },
+  "96:18:6:9:stern:ccp_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 31771664.185077496,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 93692909.89019836,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 93861635.74848315,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 106536841.25140934,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 108731881.6786591,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 97354423.74471205,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 96578700.46392584,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 123091116.46588194,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 143638051.496353,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 97416917.26670998,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 95477280.36994743,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 122844205.93261574,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 143067958.64644286,
+        "calls": 32
+      }
+    ]
+  },
+  "96:18:6:9:stern:lee_stern": {
+    "primary": {
+      "window": 0,
+      "weight": 1,
+      "weight2": 0,
+      "split": 0
+    },
+    "family": {
+      "window": 0,
+      "weight": 0,
+      "weight2": 0,
+      "split": 0
+    },
+    "candidates": [
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 0,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 0,
+        "selection_loss_ns": 114267672.14475031,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 130426384.9505771,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 130552316.3103882,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 2,
+        "selection_loss_ns": 150880520.58336344,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 1,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 3,
+        "selection_loss_ns": 198797714.30190194,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 1431934044.980476,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 4,
+        "selection_loss_ns": 906716502.9770293,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 4,
+        "selection_loss_ns": 928645902.1436651,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 2,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 6,
+        "selection_loss_ns": 1530983063.2251506,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 0,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 16,
+        "selection_loss_ns": 3701957382.407969,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 2,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 8,
+        "selection_loss_ns": 1520057725.3768997,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 4,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 8,
+        "selection_loss_ns": 1541008352.6759188,
+        "calls": 32
+      },
+      {
+        "parameters": {
+          "window": 6,
+          "weight": 3,
+          "weight2": 0,
+          "split": 0
+        },
+        "failed_calls": 10,
+        "selection_loss_ns": 2147800366.147539,
+        "calls": 32
+      }
+    ]
+  }
+}
