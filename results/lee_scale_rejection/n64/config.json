@@ -1,0 +1,33 @@
+{
+  "n": 64,
+  "K": 12,
+  "t": 4,
+  "mothers": 16,
+  "seed": 2026110423,
+  "seeds": 4,
+  "repeats": 3,
+  "trials": 16384,
+  "candidates": 100000,
+  "methods": [
+    "ep_reject",
+    "proj_binary_t"
+  ],
+  "kernel": "common",
+  "singular_policy": "reject",
+  "distance_condition": "d_H(D1)>16",
+  "errors_per_composition": 2,
+  "uniform_errors_per_mother": 2,
+  "source_hashes": {
+    "run_lee_scale_confirmation.py": "4a3b25bec04c328c15813f1b36a6cb1e2df26193566a64dbbd2ace467b2ff68c",
+    "run_lee_independent.py": "c8dc4f74ab09227498ce5413040990a7a8ea7fc5f552dc38e8a675410e22df5f",
+    "run_lee_fixed.py": "ba1fbd233ae2d3e9b6f22e086e45d2e34f0bc7cfca9c0841896a3501f7373773",
+    "lee_fixed_kernel.py": "2393824fd30fa0af0168d4feeee4f6de52f65c0df12d235321b3b1bf7a448614",
+    "lee_extended.py": "c0066303f4c94cae106c7a4c3545c144bc53d1dd7feacb06caa87190e95ef3a5",
+    "lee_revision.py": "56f0acb8a66e45f407c6abff2d1c8de6d6bed90c4eebf252a1c4f352ca8c5a20",
+    "lee_z4_dcc_comparison.py": "fb89d53219a746a34ceea04823e00879c5cca616b2a5c4b9f5856ddb56b6e52e",
+    "ring_constraints.py": "62ca492b7471e77b74d8fa93d8ec0eda54c8ffa9fc8f039829eb3da132fe3ca0"
+  },
+  "timing_policy": "Counted warm-up; alternating pair order; median of uninstrumented repeats.",
+  "sampling_policy": "SHA256-derived ambient/error/search streams, shared across subtypes and methods.",
+  "uniform_policy": "Independent exact-sphere validation, one seed per error."
+}

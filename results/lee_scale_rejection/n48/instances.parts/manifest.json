@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "original": "instances.jsonl",
+  "bytes": 23501678,
+  "records": 5760,
+  "sha256": "97a309651b50d1dbb1cb4ebb35f91a48b1170895f98b91c16a631dae8b526fe9",
+  "parts": [
+    {
+      "file": "part-0001.jsonl",
+      "bytes": 20968263,
+      "records": 5164,
+      "sha256": "fca81a0f5cff2b2caf6d453f196b8cdd04d940f686d3f0afc8f6cabd49b1212a"
+    },
+    {
+      "file": "part-0002.jsonl",
+      "bytes": 2533415,
+      "records": 596,
+      "sha256": "854e3049a1111321e18cd40121466b2e94ff60c843cb9959333fbfa14eadca50"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "original": "instances.jsonl",
+  "bytes": 138381750,
+  "records": 20672,
+  "sha256": "59c949d29432029c401d4c6055f863bdc3b8f1a16ac9c9224929c92eab26af2c",
+  "parts": [
+    {
+      "file": "part-0001.jsonl",
+      "bytes": 20970514,
+      "records": 3130,
+      "sha256": "9f3154c14869c96fdaf6dff6d4d9068968461ffbc6124e8aa10f2be849c0ba1f"
+    },
+    {
+      "file": "part-0002.jsonl",
+      "bytes": 20958924,
+      "records": 3013,
+      "sha256": "39eb30a203e0490edc2630c3cd5e349f1019236c7697821e31bd2a2a74766e81"
+    },
+    {
+      "file": "part-0003.jsonl",
+      "bytes": 20970319,
+      "records": 3250,
+      "sha256": "660d82b0d01a2847d2e98bed7a7a0be8719b29d16c636c935908eab7855dca25"
+    },
+    {
+      "file": "part-0004.jsonl",
+      "bytes": 20965057,
+      "records": 3225,
+      "sha256": "5ba4e9ad4e96a9eacdebf0e8ae72e61bc56bd5c66c8e619135fb2c0f7779580e"
+    },
+    {
+      "file": "part-0005.jsonl",
+      "bytes": 20969632,
+      "records": 3073,
+      "sha256": "daa72b683a339774d339465a8630537a1ee49622413c6492258981925fc88227"
+    },
+    {
+      "file": "part-0006.jsonl",
+      "bytes": 20969549,
+      "records": 3029,
+      "sha256": "1599702c2375affc4f9ff973d68dc275affb018dceba49dc90ba4e01942ec95c"
+    },
+    {
+      "file": "part-0007.jsonl",
+      "bytes": 12577755,
+      "records": 1952,
+      "sha256": "163cf73f36f1e7ee62115dfb87f83b3fb571566d6d33749d87864509291ddb03"
+    }
+  ]
+}

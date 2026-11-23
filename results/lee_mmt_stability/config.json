@@ -1,0 +1,360 @@
+{
+  "output": "results/lee_mmt_stability_20261107",
+  "train_mothers": 8,
+  "test_mothers": 32,
+  "repeats": 3,
+  "seed": 2026110701,
+  "smoke": false,
+  "targets": [
+    [
+      64,
+      12,
+      4,
+      3,
+      "mmt"
+    ],
+    [
+      64,
+      12,
+      4,
+      6,
+      "mmt"
+    ],
+    [
+      64,
+      12,
+      8,
+      9,
+      "mmt"
+    ],
+    [
+      96,
+      18,
+      6,
+      5,
+      "mmt"
+    ],
+    [
+      96,
+      18,
+      6,
+      9,
+      "mmt"
+    ],
+    [
+      96,
+      18,
+      12,
+      14,
+      "mmt"
+    ]
+  ],
+  "grids": {
+    "64:12:4:3:mmt": [
+      {
+        "window": 0,
+        "weight": 0,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 4,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      }
+    ],
+    "64:12:4:6:mmt": [
+      {
+        "window": 0,
+        "weight": 0,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 4,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 6,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      }
+    ],
+    "64:12:8:9:mmt": [
+      {
+        "window": 0,
+        "weight": 0,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 2,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      }
+    ],
+    "96:18:6:5:mmt": [
+      {
+        "window": 0,
+        "weight": 0,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 2,
+        "split": 2
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      }
+    ],
+    "96:18:6:9:mmt": [
+      {
+        "window": 0,
+        "weight": 0,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 0,
+        "split": 2
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 4,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      }
+    ],
+    "96:18:12:14:mmt": [
+      {
+        "window": 0,
+        "weight": 0,
+        "weight2": 0,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 2,
+        "weight": 0,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 2,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 4,
+        "weight": 0,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 0
+      },
+      {
+        "window": 4,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      },
+      {
+        "window": 6,
+        "weight": 1,
+        "weight2": 1,
+        "split": 2
+      }
+    ]
+  },
+  "tune_seconds": 15,
+  "seconds": 15,
+  "tune_trials": 16384,
+  "trials": 16384,
+  "entries": 200000,
+  "checks": 2000000,
+  "python": "3.13.5",
+  "numpy": "2.1.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "source_hashes": {
+    "run_lee_mmt_stability.py": "2fb91776a4681d49c1eb9530f896fde9f34e0bec5ee98685df33e015e8c8618d",
+    "run_lee_list_retuned.py": "8effe67776f4d67aada2deb6d9c3e13823785b58263c31fa8846b3564494c534",
+    "run_lee_list_confirmation.py": "c3c4585509c996263092b84471376132978641199f7af75f961d2e5d1ca3cf0f",
+    "lee_list_isd.py": "36d5422bea03fe9e25bc6086aaa27abab8199f5c5d972fb888a50fbbedce868e",
+    "lee_extended.py": "c0066303f4c94cae106c7a4c3545c144bc53d1dd7feacb06caa87190e95ef3a5",
+    "lee_revision.py": "56f0acb8a66e45f407c6abff2d1c8de6d6bed90c4eebf252a1c4f352ca8c5a20",
+    "ring_constraints.py": "62ca492b7471e77b74d8fa93d8ec0eda54c8ffa9fc8f039829eb3da132fe3ca0",
+    "run_lee_list_comparison.py": "2db42cc002ae71207c04005efc3869f94c6a0fe2cc73847e8684cf3e1c506836"
+  },
+  "prior_training_hash": "7a591387c5765eb3f56f00b3d970855cef47b0ae55c151b3ca5c88e869fa9f39",
+  "prior_tuning_hash": "853d8209ffe8bd05dffe0f9dc0608a2787ee5d13b6e231e48efd6a47f10c0666",
+  "shortlist_rule": "Union of top two previous training candidates per side and per policy, plus all-zero weights. Previous test timings are not used.",
+  "training": "Eight fresh matrices per length; two errors and two search seeds per exact composition; one uninstrumented call per seed; common candidates and budgets on both sides.",
+  "selection": "Minimize failed calls first, then exact-sphere weighted penalized mean online time; freeze primary and full-family choices before testing.",
+  "policy": "Six MMT targets fixed in advance; 32 fresh held-out matrices per length; no optional stopping.",
+  "timing": "Cold word cache; one counted call and three alternating-order uninstrumented repetitions; median per input.",
+  "inference": "Joint paired mother-cluster bootstrap, independent draws by length; simultaneous approximate 95 percent intervals over all six points and both policies.",
+  "preprocessing": "Online costs exclude generation, distance certification and cached CCP Smith preparation; native methods are not charged Smith.",
+  "expected_records": 12800,
+  "expected_training_records": 12096
+}
